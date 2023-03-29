@@ -3,8 +3,8 @@
 Projeto final do curso de Data Science & Machine Learning da Tera
 
 Nomes:
-Alessandra Oka
-Carolina Lavinas
-João Guilherme Andrade
-Jhonatan Cardoso
+Alessandra Oka,
+Carolina Lavinas,
+João Guilherme Andrade,
+Jhonatan Cardoso,
 Max Burlamaque
